@@ -1,4 +1,4 @@
-### Hi there I am an IT Professional 👋
+### Hi there, I am an IT Professional 👋
 
 - 🔭 I’m currently working on completing osTicket (a open source help desk ticketing system)
 - 🌱 I’m currently learning Unreal Engine 5 in my spare time 🎥

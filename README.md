@@ -9,6 +9,6 @@
 ### Information Technology Projects
 
 - osTicket (Help Desk Ticketing System on Azure)
-  - https://github.com/malarc01/osticket-prereqs
-  - https://github.com/malarc01/post-install-config
-  - https://github.com/malarc01/ticket-lifecycle
+  - [osTicket - Prerequisites and Installation](https://github.com/malarc01/osticket-prereqs)
+  - [osTicket - Post-Install Configuration](https://github.com/malarc01/post-install-config)
+  - [osTicket - Ticket Lifecycle: Intake Through Resolution](https://github.com/malarc01/ticket-lifecycle)

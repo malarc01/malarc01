@@ -11,4 +11,4 @@
 - osTicket (Help Desk Ticketing System on Azure)
   - [Installing osTicket via Azure on an iPad](https://github.com/malarc01/osticket-prereqs)
 - Hugo as a Second Brain (Open-source Static Site Generator)
-  - [How to deploy a public repository of knowledge using Hugo on your own subdomain](https://github.com/malarc01/osticket-prereqs)
+  - [How to deploy a public repository of knowledge using Hugo on your own subdomain](https://github.com/malarc01/aws-hugo)
